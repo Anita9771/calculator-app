@@ -22,7 +22,6 @@ body{
 .calc button{
     cursor: pointer;
     outline: none;
-    font-family: 100px;
     border: 2px solid white;
     border-radius: 10px;
     background-color: rgb(193, 248, 248) ;
@@ -30,6 +29,7 @@ body{
 
 .calc button:hover {
     background-color: whitesmoke;
+    font-size: 50px;
 }
 
 .long{
